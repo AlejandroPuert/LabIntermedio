@@ -1,4 +1,4 @@
-Record Length,2500,Points,Voltaje1,Tiempo1,,Record Length,2500,Points,Voltaje2,Tiempo2
+Record Length,2500,Points,Tiempo1,Voltaje1,,Record Length,2500,Points,Tiempo2,Voltaje2
 Sample Interval,1E-06,s,-0.0012500001,-1.2,,Sample Interval,1E-06,s,-0.0012500001,16
 Trigger Point,1250.0002,Samples,-0.0012490001,-1.2,,Trigger Point,1250.0002,Samples,-0.0012490001,16
 ,,,-0.0012480001,-1,,,,,-0.0012480001,16.8000011
